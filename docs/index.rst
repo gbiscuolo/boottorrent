@@ -1,11 +1,10 @@
-.. include:: ../README.rst
-
 Contents
 --------
 
 .. toctree::
    :maxdepth: 2
 
+   introduction
    installation
    quickstart
    usage
