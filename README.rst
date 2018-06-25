@@ -12,7 +12,15 @@ BootTorrent
         :target: https://boottorrent.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+This is a test to verify I can include external documents in ``README.rst``
+
+the next couple paragraphs are included via ``.. include:: docs/intro/preamble.rst``
+
+``include begins``
+
 .. include:: docs/intro/preamble.rst
+
+``include ends``
 
 ::
 
@@ -30,7 +38,11 @@ BootTorrent
     |                                     +----------------------------+ |
     +--------------------------------------------------------------------+
 
+``include begins``
+
 .. include:: docs/intro/intro.rst
+
+``include ends``
 
 **WARNING: STATUS - ALPHA: DO NOT USE IN PRODUCTION!**
 
